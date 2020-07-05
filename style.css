@@ -1,0 +1,20 @@
+.container{
+    margin-bottom:60px;
+}
+.caro-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding:20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.by-now-btn{
+    background-color: #ff136f;
+    border: none;
+    border-radius:3px;
+    color: #fff;
+    padding:3px 6px;
+}
