@@ -18,3 +18,35 @@
     color: #fff;
     padding:3px 6px;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color:royalblue;
+}
+.cat3{
+    background-color:darkseagreen;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 9px;
+}
+.categores h1{
+    color: white;
+}
+.categores img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px #ddd;
+    border-radius: 7px;
+}
+.card-footer{
+    border-top: none;
+    background-color: #fff;
+}
+.subscribe{
+    
+    height: 300px;
+}
